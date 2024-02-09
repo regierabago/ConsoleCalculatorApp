@@ -1,0 +1,14 @@
+C:\Users\regie\source\repos\LearnCsharpApp\bin\Debug\net8.0\LearnCsharpApp.exe
+C:\Users\regie\source\repos\LearnCsharpApp\bin\Debug\net8.0\LearnCsharpApp.deps.json
+C:\Users\regie\source\repos\LearnCsharpApp\bin\Debug\net8.0\LearnCsharpApp.runtimeconfig.json
+C:\Users\regie\source\repos\LearnCsharpApp\bin\Debug\net8.0\LearnCsharpApp.dll
+C:\Users\regie\source\repos\LearnCsharpApp\bin\Debug\net8.0\LearnCsharpApp.pdb
+C:\Users\regie\source\repos\LearnCsharpApp\obj\Debug\net8.0\LearnCsharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regie\source\repos\LearnCsharpApp\obj\Debug\net8.0\LearnCsharpApp.AssemblyInfoInputs.cache
+C:\Users\regie\source\repos\LearnCsharpApp\obj\Debug\net8.0\LearnCsharpApp.AssemblyInfo.cs
+C:\Users\regie\source\repos\LearnCsharpApp\obj\Debug\net8.0\LearnCsharpApp.csproj.CoreCompileInputs.cache
+C:\Users\regie\source\repos\LearnCsharpApp\obj\Debug\net8.0\LearnCsharpApp.dll
+C:\Users\regie\source\repos\LearnCsharpApp\obj\Debug\net8.0\refint\LearnCsharpApp.dll
+C:\Users\regie\source\repos\LearnCsharpApp\obj\Debug\net8.0\LearnCsharpApp.pdb
+C:\Users\regie\source\repos\LearnCsharpApp\obj\Debug\net8.0\LearnCsharpApp.genruntimeconfig.cache
+C:\Users\regie\source\repos\LearnCsharpApp\obj\Debug\net8.0\ref\LearnCsharpApp.dll
