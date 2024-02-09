@@ -54,14 +54,3 @@ class Program
         
     }
 }
-
-//public class Rabago
-//{
-//    public void TopG()
-//    {
-//        for(int j = 0; j <= 10; j++)
-//        {
-//            Console.Write(j + ", ");
-//        }
-//    }
-//}
